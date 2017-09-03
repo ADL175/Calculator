@@ -3,7 +3,7 @@ package com.example.java;
 import java.util.Scanner;
 
 import static com.example.java.util.MathMethods.*;
-//some comments again again
+//feature stuff
 public class Calculator {
 
     public static void main(String[] args) {
